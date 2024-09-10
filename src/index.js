@@ -74,8 +74,8 @@ function Menu() {
       {numPizzas > 0 ? (
         <>
           <p>
-            Authentic Italian cuisine. All from our stone oven, all organic,
-            made with local ingredients.
+            Authentic Italian cuisine. Everything from our stone oven is organic
+            and made with local ingredients.
           </p>
           <ul className="pizzas">
             {pizzas.map((pizza) => (
