@@ -1,3 +1,5 @@
-Pizza Menu Demo made with React as a learning project for Jonas Schmedtmanns Udemy React Course.
+Pizza Menu Demo made with React 18.3.1 as a learning project for Jonas Schmedtmanns Udemy React Course.
 
-![react-pizza-menu](https://github.com/user-attachments/assets/dc717a9d-4315-4e1c-aa1c-20f793a66dd9)
+>> Used nested components, react fragments, props and props destructuring.
+
+![react-pizza-menu](https://github.com/user-attachments/assets/f3886db9-fca6-4e02-9df9-4d96d9d8daac)
